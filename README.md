@@ -1,2 +1,6 @@
-# battery-dev-competition-1
-Collaboration repo for Team Cellerate
+# Collaboration repo for Team Cellerate
+
+Contents:
+
+ - `alex-example.ipynb`: capacity decay by damage fitting from Alex
+   Bento (@alexandrebento).
